@@ -1,8 +1,8 @@
-hi，friends ！
+Hi，friends ！
 
 I'm codes-nebula.
 
-my favorite thing is write code ！
+My favorite thing is write code ！
 
-what about you？
+What about you？
 
